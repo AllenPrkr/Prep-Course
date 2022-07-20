@@ -1,0 +1,13 @@
+En un archivo de texto separado que debes crear, escribe explicando los siguientes conceptos como si se lo estuviera explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* Variables
+* Strings
+* Funciones (argumentos, 'return')
+* Declaraciones 'if'
+* Valores booleanos
+
+* Variable: es un cajon con  un nombre determinado en el cual guardamos datos de un programa
+* Strings: es un conjunto de letras o caracteres. Se escriben entre comillas. 
+* Funciones: se conforman por codigo agrupado al que luego podre recurrir.
+* Declaraciones 'if': al declarar 'if' se busca que la funcion determine si algo es true o false.
+* Valores Booleanos ('true', 'false'): es un tipo de dato utilizado para determinar si algo es True o False.
